@@ -1,10 +1,14 @@
 .parent {
-  height: 100px;
-  width: 100px;
-  border: 2px solid;
+  
+  background-color: #BAF2FF;
+  height: 300px;
+  width: 200px;
+  border: 4px solid #223236;;
+  overflow: auto;
+  
 }
 
 body {
   background-color: #9BE5F5;
-  color:
+  color: #223236;
 }
